@@ -50,7 +50,7 @@ body {
   font-family: 'RobotoSlab', sans-serif;
   font-size: 50px;
   font-weight: bold;
-  
+  justify-content: flex-start
 }
 
 .artigo {
