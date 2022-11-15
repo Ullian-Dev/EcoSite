@@ -41,15 +41,23 @@ body {
 }
 
 .materia-principal-artigo {
-  margin-top: 20px;
+  margin: auto;
   width: 50%;
 }
 
 .materia-principal-artigo-titulo {
+  color: red;
+  font-weight: bold;
+}
 
+.artigo {
+  margin-top: 20px;
 }
 
 .materia-principal-artigo-subtitulo {
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
   
 }
 
