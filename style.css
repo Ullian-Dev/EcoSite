@@ -27,7 +27,7 @@ body {
 
 .cabecalho-imagem {
   border-radius: 50%;
-
+  height: 50px;
 }
 
 .cabecalho-menu {
