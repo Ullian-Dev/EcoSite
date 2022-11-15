@@ -9,7 +9,7 @@
 
 body {
   font-size: 100%;
-  background: linear-gradient(68.15deg, #064B00 16.62%, #006262 85.61%);
+  background: linear-gradient(68.15deg, #EEEEEE 16.62%, #FFFFFF 85.61%);
 }
 
 .cabecalho {
@@ -47,7 +47,9 @@ body {
 
 .materia-principal-artigo-titulo {
   color: red;
+  font-size: 30px;
   font-weight: bold;
+  margin-bottom: 10px;
 }
 
 .artigo {
