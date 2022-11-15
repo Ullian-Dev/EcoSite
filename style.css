@@ -12,6 +12,10 @@ body {
   background: linear-gradient(68.15deg, #CECECE 16.62%, #FEFEFE 85.61%);
 }
 
+.div-cab {
+    justify-content: flex-start
+}
+
 .cabecalho {
   display: flex;
   flex-direction: row;
@@ -50,7 +54,7 @@ body {
   font-family: 'RobotoSlab', sans-serif;
   font-size: 50px;
   font-weight: bold;
-  justify-content: flex-start
+
 }
 
 .artigo {
