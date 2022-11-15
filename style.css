@@ -28,7 +28,8 @@ body {
 .cabecalho-imagem {
   border-radius: 50%;
   height: 72px;
-  width: 55%;
+  height: 400;
+  width: 400;
 }
 
 .cabecalho-menu {
