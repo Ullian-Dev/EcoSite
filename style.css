@@ -13,7 +13,8 @@ body {
 }
 
 .div-cab {
-    justify-content: flex-start
+  flex-direction: row;
+  justify-content: flex-start
 }
 
 .cabecalho {
