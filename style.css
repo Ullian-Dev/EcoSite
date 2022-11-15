@@ -72,6 +72,8 @@ body {
 .lermais1 {
   margin-top: 20px;
   color: red;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
 }
 
 .materia-principal-artigo-subtitulo {
